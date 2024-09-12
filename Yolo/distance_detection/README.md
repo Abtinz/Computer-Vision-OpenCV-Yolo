@@ -3,11 +3,11 @@
 
 this project is an instance of YoloV8 application which is inspiered from  ![ultralytics](https://cdn.prod.website-files.com/646dd1f1a3703e451ba81ecc/64777c3e071ec953437e6950_logo.svg)
 
-Thank to ![intel-iot-devkit](!https://github.com/intel-iot-devkit/sample-videos) for sample video
+Thank to [intel-iot-devkit](https://github.com/intel-iot-devkit/sample-videos) for sample video
 
 Link of the related article of the usage of solutions.distance with aimming to find the distance between choosed objects:
 
-  ![docs.ultralytics.com/guides/distance-calculation](!https://docs.ultralytics.com/guides/distance-calculation/)
+  [docs.ultralytics.com/guides/distance-calculation](https://docs.ultralytics.com/guides/distance-calculation/)
 
 
 Demo:
