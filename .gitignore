@@ -6,3 +6,4 @@ Yolo/distance_detection/yolov8n.pt
 OpenCV/segmentation/KNN-Handwritting/dataset/Data_hoda_full.mat
 OpenCV/deep learning/object detection/googLeNet/model/
 OpenCV/deep learning/object detection/ssd-mobileNet/model/
+OpenCV/deep learning/face detection/YuNet/model
